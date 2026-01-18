@@ -95,11 +95,9 @@ Esto generará un horario válido según las restricciones definidas en la base 
 Puedes ver la demostración completa en el siguiente enlace:  
 [Ver video en Google Drive](https://share.google/gUXVmJ3OylqhdO59q)
 
-
-
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 - Alejandro Colón Alvarez
 - Manuel René de Moya
 - Lázaro Cardero Calá
