@@ -73,7 +73,7 @@ pip install -r install.txt
 Ejecuta el script principal en Python:
 
 ```bash
-python main.py
+sreamlit run main.py
 ```
 
 Esto generará un horario válido según las restricciones definidas en la base de conocimiento Prolog.
